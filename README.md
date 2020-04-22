@@ -4,4 +4,4 @@ This is a readme file
 
 ## Heading 2
 
-updated info here, on 'updates' branch
+this is bound to cause trouble
